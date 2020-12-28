@@ -1,0 +1,6 @@
+[submodule "sml/libsml"]
+	path = sml/libsml
+	url = https://github.com/volkszaehler/libsml
+[submodule "sml/libsml-testing"]
+	path = sml/libsml-testing
+	url = https://github.com/devZer0/libsml-testing.git
